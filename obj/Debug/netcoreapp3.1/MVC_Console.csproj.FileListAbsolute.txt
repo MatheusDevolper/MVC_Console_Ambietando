@@ -1,0 +1,14 @@
+
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.exe
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\Telma\Desktop\MVC_Console_Ambietando\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
